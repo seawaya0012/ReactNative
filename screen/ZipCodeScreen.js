@@ -56,6 +56,8 @@ const styles = StyleSheet.create({
         fontSize:'20px',
         fontWeight: 'bold',
         color: '#f5f5f5',
+        fontWeight: 'bold',
+        color: '#f5f5f5',
     
         
      },
