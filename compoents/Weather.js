@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
     
  },
  sizenumber: {
-    fontSize:'20px',
     textShadowOffset: { width: 0.5, height: 1 },
     textShadowColor: '#f5f5f5',
 
