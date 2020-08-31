@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
         justifyContent:'space-evenly',
         width: '100%',
         height: '100%',
-        paddingTop: 30,
+        paddingTop: 50,
     },
     sizeText: {
         fontSize:'20px',
